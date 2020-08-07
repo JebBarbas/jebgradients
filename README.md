@@ -11,21 +11,28 @@ You can download the file you prefer (.js or .min.js) directly, copying the code
 <script src="https://cdn.jsdelivr.net/gh/jebbarbas/jebgradients/jebgradients.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/jebbarbas/jebgradients/jebgradients.min.js"></script>
 ~~~
-You can put the &lt;script&gt; in the &lt;head&gt; or &lt;body&gt;, it doesn't matter 'cause I put the gradients using the 'DOMContentLoaded' event.
+You can put the `<script>` in the `<head>` or `<body>`, it doesn't matter 'cause I put the gradients using the 'DOMContentLoaded' event.
 '
 ## How To Use - Quick Start
-- Download the file and in your code add a <script src=""> pointing to it.
-- Write the element you want to apply the grandient (a &lt;div&gt; for example).
-- In the attribute class add the class "jebg".
-- Add a new attribute named jebg and in its value the colors you want in the gradient separated with a -.
+- Download the file and in your code add a `<script src="">` pointing to it.
+- Write the element you want to apply the grandient (a `<div>` for example).
+- In the attribute class add the atribute "jebg-colors".
+- In this attribute put in its value the colors you want in the gradient separated with a ','.
 - Ready.
   
+## How To Use - With uiGradients
+- Erase the jebg-colors attribute in the element.
+- Add the attribute jebg-ui.
+- Put in its value the name of a uiGradient (JShine for instance).
+- Ready
+
 ## Examples
 ~~~
-<div class="jebg" jebg="red-magenta">Gradient from red to magenta</div>
-<div class="jebg" jebg="#ae42bd-#ffb4bf">Gradient from #ae42bd to #ffb4bf</div>
-<div class="jebg" jebg="#ae42bd-magenta-red-#ffb4bf">Gradient from #ae42bd then magenta then red to #ffb4bf</div>
+<div jebg-colors="red,magenta">Gradient from red to magenta</div>
+<div jebg-colors="#ae42bd,#ffb4bf">Gradient from #ae42bd to #ffb4bf</div>
+<div jebg-colors="#ae42bd,magenta,red,#ffb4bf">Gradient from #ae42bd then magenta then red to #ffb4bf</div>
+<div jebg-ui="JShine">Gradient JShine from uiGradients.com</div>
 ~~~
 
 ## Full Documentation
-For the newest versions and a detailed guide about how to use jebgradients.js [Here](https://jebbarbas.herokuapp.com/publicaciones/tutoriales/jebgradients).
+For a detailed guide about how to use jebgradients.js see the file jebgradients.pdf
