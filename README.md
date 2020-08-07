@@ -8,10 +8,9 @@ Apply gradients in the background of your elements fast and easy, without touchi
 ## How To Use - Download
 You can download the file you prefer (.js or .min.js) directly, copying the code and pasting it in your proyect or add the jsDelivr CDN (.js or .min.js, you pick)
 
-```html
+~~~html
 <script src="https://cdn.jsdelivr.net/gh/jebbarbas/jebgradients/jebgradients.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/jebbarbas/jebgradients/jebgradients.min.js"></script>
-<<<<<<< HEAD
 ~~~
 You can put the `<script>` in the `<head>` or `<body>`, it doesn't matter 'cause I put the gradients using the 'DOMContentLoaded' event.
 '
@@ -20,17 +19,6 @@ You can put the `<script>` in the `<head>` or `<body>`, it doesn't matter 'cause
 - Write the element you want to apply the grandient (a `<div>` for example).
 - In the attribute class add the atribute "jebg-colors".
 - In this attribute put in its value the colors you want in the gradient separated with a ','.
-=======
-```
-
-You can put the `<script>` in the `<head>` or `<body>`, it doesn't matter 'cause I put the gradients using the 'DOMContentLoaded' event.
-
-## How To Use - Quick Start
-- Download the file and in your code add a `<script src="">` pointing to it.
-- Write the element you want to apply the grandient (a `<div>` for example).
-- In the attribute class add the class "jebg".
-- Add a new attribute named jebg and in its value the colors you want in the gradient separated with a -.
->>>>>>> ab3e4f32aa7df534a0d94ffb1b32ba47531d8723
 - Ready.
   
 ## How To Use - With uiGradients
@@ -40,20 +28,12 @@ You can put the `<script>` in the `<head>` or `<body>`, it doesn't matter 'cause
 - Ready
 
 ## Examples
-<<<<<<< HEAD
 ~~~
 <div jebg-colors="red,magenta">Gradient from red to magenta</div>
 <div jebg-colors="#ae42bd,#ffb4bf">Gradient from #ae42bd to #ffb4bf</div>
 <div jebg-colors="#ae42bd,magenta,red,#ffb4bf">Gradient from #ae42bd then magenta then red to #ffb4bf</div>
 <div jebg-ui="JShine">Gradient JShine from uiGradients.com</div>
 ~~~
-=======
-```html
-<div class="jebg" jebg="red-magenta">Gradient from red to magenta</div>
-<div class="jebg" jebg="#ae42bd-#ffb4bf">Gradient from #ae42bd to #ffb4bf</div>
-<div class="jebg" jebg="#ae42bd-magenta-red-#ffb4bf">Gradient from #ae42bd then magenta then red to #ffb4bf</div>
-```
->>>>>>> ab3e4f32aa7df534a0d94ffb1b32ba47531d8723
 
 ## Full Documentation
 For a detailed guide about how to use jebgradients.js see the file jebgradients.pdf
