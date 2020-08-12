@@ -33,8 +33,15 @@ You can put the `<script>` in the `<head>` or `<body>`, it doesn't matter 'cause
 ## How To Use - With uiGradients
 - Erase the jebg-colors attribute in the element.
 - Add the attribute jebg-ui.
-- Put in its value the name of a uiGradient (JShine for instance).
-- You can leave the attribute without value or put \*random\* for a random gradient.
+- Put in its value the name of an uiGradient (JShine for instance).
+- Or put $random$ for a random gradient.
+- Ready.
+
+## How To Use - With jebGradients
+- Erase the jebg-colors attribute.
+- Add the attribute jebg-grad.
+- Put in its value the name of a jebGradient (El Dorado for instance).
+- Or put $random$ for a random gradient.
 - Ready.
 
 ## Examples
@@ -43,8 +50,9 @@ You can put the `<script>` in the `<head>` or `<body>`, it doesn't matter 'cause
 <div jebg-colors="#ae42bd,#ffb4bf">Gradient from #ae42bd to #ffb4bf</div>
 <div jebg-colors="#ae42bd,magenta,red,#ffb4bf">Gradient from #ae42bd then magenta then red to #ffb4bf</div>
 <div jebg-ui="JShine">Gradient JShine from uiGradients.com</div>
-<div jebg-ui>This will result in a random uiGradient</div>
-<div jebg-ui="*random*">This will result in a random uiGradient</div>
+<div jebg-ui="$random$">This will result in a random uiGradient</div>
+<div jebg-grad="El Dorado">El Dorado from gradients.json</div>
+<div jebg-grad="*random*">This will result in a random jebGradient</div>
 ~~~
 
 ## Full Documentation
