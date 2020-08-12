@@ -1,0 +1,78 @@
+[
+    {
+        "name" : "Primary",
+        "colors" : ["#007bff","#66b0ff"]
+    },
+    {
+        "name" : "Secondary",
+        "colors" : ["#6c757d","#a0a6ac"]
+    },
+    {
+        "name" : "Success",
+        "colors" : ["#28a745","#5bd778"]
+    },
+    {
+        "name" : "Info",
+        "colors" : ["#17a2b8","#49d3e9"]
+    },
+    {
+        "name" : "Warning",
+        "colors" : ["#ffc107","#ffd966"]
+    },
+    {
+        "name" : "Danger",
+        "colors" : ["#dc3545","#ec939c"]
+    },
+    {
+        "name" : "Light",
+        "colors" : ["#f8f9fa","#ffffff"]
+    },
+    {
+        "name" : "Dark",
+        "colors" : ["#343a40","#67737e"]
+    },
+    {
+        "name" : "Magic",
+        "colors" : ["#ae42bd","#cf8ed7"]
+    },
+    {
+        "name" : "Juice",
+        "colors" : ["#fd9800","#ffc266"]
+    },
+    {
+        "name" : "Ocean",
+        "colors" : ["#00cca3","#33ffd6"]
+    },
+    {
+        "name" : "Cake",
+        "colors" : ["#ffb4bf","#ffffff"]
+    },
+    {
+        "name" : "Edges",
+        "colors" : ["#FF0000","#FF00FF"]
+    },
+    {
+        "name" : "Rainbow",
+        "colors" : ["#FF0000","#FD9800","#FFFF00","#00FF00","#00FFFF","#0000FF","#AE42BD","#FF00FF"]
+    },
+    {
+        "name" : "Mother Rusia",
+        "colors" : ["#FFFFFF","#FF0000","#0000FF"]
+    },
+    {
+        "name" : "Buongiorno",
+        "colors" : ["#00FF00","#FFFFFF","#FF0000"]
+    },
+    {
+        "name" : "Mariachi",
+        "colors" : ["#00FF00","#FFFFFF","#654321","#FFFFFF","#FF0000"]
+    },
+    {
+        "name" : "El Dorado",
+        "colors" : ["#FFD700","#EEE8AA","#FFD700","#EABE3F","#DAA520","#FFD700"]
+    },
+    {
+        "name" : "Sunset",
+        "colors" : ["#000000","#FFFF00","#FFFF00","#FD9800","#FF0000"]
+    }
+]
