@@ -52,7 +52,7 @@ You can put the `<script>` in the `<head>` or `<body>`, it doesn't matter 'cause
 <div jebg-ui="JShine">Gradient JShine from uiGradients.com</div>
 <div jebg-ui="$random$">This will result in a random uiGradient</div>
 <div jebg-grad="El Dorado">El Dorado from gradients.json</div>
-<div jebg-grad="*random*">This will result in a random jebGradient</div>
+<div jebg-grad="$random$">This will result in a random jebGradient</div>
 ~~~
 
 ## Full Documentation
