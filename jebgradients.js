@@ -1,7 +1,7 @@
 /* En este objeto se guardan los estilos de los mensajes y los links de los degradados */
 const jebgradients_const = {
     link: 'https://raw.githubusercontent.com/ghosh/uiGradients/master/gradients.json',
-    link_j: 'https://cdn.jsdelivr.net/gh/jebbarbas/jebgradients/gradients.json',
+    link_j: 'https://raw.githubusercontent.com/jebbarbas/jebgradients/master/gradients.json',
     cssSuccess: 'color:lime;font-weight:bold;font-size:1rem;display:block',
     cssSuccessText: 'color:lightgreen;display:block',
     cssError: 'color:red;font-weight:bold;font-size:1rem;display:block',

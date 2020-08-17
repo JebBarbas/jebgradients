@@ -1,51 +1,51 @@
 [
     {
         "name" : "Primary",
-        "colors" : ["#007bff","#66b0ff"]
+        "colors" : ["#007BFF","#000080"]
     },
     {
         "name" : "Secondary",
-        "colors" : ["#6c757d","#a0a6ac"]
+        "colors" : ["#6C757D","#808080"]
     },
     {
         "name" : "Success",
-        "colors" : ["#28a745","#5bd778"]
+        "colors" : ["#28A745","#008000"]
     },
     {
         "name" : "Info",
-        "colors" : ["#17a2b8","#49d3e9"]
+        "colors" : ["#17A2B8","#8080FF"]
     },
     {
         "name" : "Warning",
-        "colors" : ["#ffc107","#ffd966"]
+        "colors" : ["#FFC107","#FFFF00"]
     },
     {
         "name" : "Danger",
-        "colors" : ["#dc3545","#ec939c"]
+        "colors" : ["#DC3545","#DC143C"]
     },
     {
         "name" : "Light",
-        "colors" : ["#f8f9fa","#ffffff"]
+        "colors" : ["#F8F9Fa","#FFFFFF"]
     },
     {
         "name" : "Dark",
-        "colors" : ["#343a40","#67737e"]
+        "colors" : ["#343A40","#333333"]
     },
     {
         "name" : "Magic",
-        "colors" : ["#ae42bd","#cf8ed7"]
+        "colors" : ["#AE42BD","#800080"]
     },
     {
         "name" : "Juice",
-        "colors" : ["#fd9800","#ffc266"]
+        "colors" : ["#FD9800","#FF8000"]
     },
     {
         "name" : "Ocean",
-        "colors" : ["#00cca3","#33ffd6"]
+        "colors" : ["#00CCA3","#008080"]
     },
     {
         "name" : "Cake",
-        "colors" : ["#ffb4bf","#ffffff"]
+        "colors" : ["#FFB4BF","#FF8080"]
     },
     {
         "name" : "Edges",
@@ -64,8 +64,8 @@
         "colors" : ["#00FF00","#FFFFFF","#FF0000"]
     },
     {
-        "name" : "Mariachi",
-        "colors" : ["#00FF00","#FFFFFF","#654321","#FFFFFF","#FF0000"]
+        "name" : "Taco Master",
+        "colors" : ["#00FF00","#FFFFFF","#FFFFFF","#654321","#FFFFFF","#FFFFFF","#FF0000"]
     },
     {
         "name" : "El Dorado",
@@ -74,5 +74,85 @@
     {
         "name" : "Sunset",
         "colors" : ["#000000","#FFFF00","#FFFF00","#FD9800","#FF0000"]
+    },
+    {
+        "name" : "Pinky Promise",
+        "colors" : ["#FFB4BF","#FF69B4","#FF0080"]
+    },
+    {
+        "name" : "Bubblegum",
+        "colors" : ["#80FFFF","#FF80FF","#FF8080"]
+    },
+    {
+        "name" : "King Crimson",
+        "colors" : ["#CC0000","#DC143C"]
+    },
+    {
+        "name" : "HTML",
+        "colors" : ["#E44D26","#F16529"]
+    },
+    {
+        "name" : "CSS",
+        "colors" : ["#2277FF","#3399FF"]
+    },
+    {
+        "name" : "JavaScript",
+        "colors" : ["#D6BA32","#FFDA3E"]
+    },
+    {
+        "name" : "C#",
+        "colors" : ["#9B4F96","#68217A"]
+    },
+    {
+        "name" : "C",
+        "colors" : ["#659AD2","#00599C","#004482"]
+    },
+    {
+        "name" : "PHP",
+        "colors" : ["#AEB2D5","#777BB3","#484C89"]
+    },
+    {
+        "name" : "Chocolate",
+        "colors" : ["#491904","#54240B","#5E2D0B","#69371B","#764636"]
+    },
+    {
+        "name" : "Facebook",
+        "colors" : ["#4267b2","#29487d"]
+    },
+    {
+        "name" : "Sweet Perfection",
+        "colors" : ["#4285F4","#EA4335","#FBBC05","#34A853"]
+    },
+    {
+        "name" : "Eiffel Tower",
+        "colors" : ["#0000FF","#FFFFFF","#FF0000"]
+    },
+    {
+        "name" : "Pride 1",
+        "colors" : ["#D12B01","#E86F26","#F89252","#FFFFFF","#CA60A2","#B2528F","#A1005E"]
+    },
+    {
+        "name" : "Pride 2",
+        "colors" : ["#FF0000","#FF8000","#FFFF00","#008000","#0000FF","#800080"]
+    },
+    {
+        "name" : "Pride 3",
+        "colors" : ["#E4007C","#800080","#0000FF"]
+    },
+    {
+        "name" : "Pride 4",
+        "colors" : ["#00FFFF","#FF8080","#FFFFFF","#FF8080","#00FFFF"]
+    },
+    {
+        "name" : "Pride 5",
+        "colors" : ["#000000","#808080","#FFFFFF","#800080"]
+    },
+    {
+        "name" : "Earth",
+        "colors" : ["#00cc00","#0000cc"]
+    },
+    {
+        "name" : "Vue",
+        "colors" : ["#41B883","#34495E"]
     }
 ]
